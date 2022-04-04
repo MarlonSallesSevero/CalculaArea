@@ -33,7 +33,7 @@ namespace POO
                 }
                 else
                 {
-                    Console.WriteLine("Opção Invalida!!! Reiniciado!");
+                    Console.WriteLine("Opção Invalida!!! Reiniciado!  ");
                 }
             }
         }
